@@ -1,4 +1,4 @@
-from Task5.main import determinant_3x3, inverse_3x3, matrix_multiply
+from linear_algebra import determinant_3x3, inverse_3x3, matrix_multiply
 
 def solve_linear_system(coefficients, constants):
     A = coefficients
