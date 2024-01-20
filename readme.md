@@ -10,7 +10,7 @@ The script `sales_calculator.py` contains a Python program that calculates the t
 
 The script `product_operations.py` defines a `Product` class with attributes like name, price, and quantity. Additionally, it includes functions to calculate the total cost of a given basket of products and apply a discount.
 
-## Task 3: Product Class Instance
+## Task 3+4: Product Class Instance
 
 The task involves defining a class named `Product` with attributes such as name, price, and quantity. An instance of the class is created to showcase its usage.
 
