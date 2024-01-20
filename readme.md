@@ -10,6 +10,10 @@ The script `sales_calculator.py` contains a Python program that calculates the t
 
 The script `product_operations.py` defines a `Product` class with attributes like name, price, and quantity. Additionally, it includes functions to calculate the total cost of a given basket of products and apply a discount.
 
+## Task 3: Product Class Instance
+
+The task involves defining a class named `Product` with attributes such as name, price, and quantity. An instance of the class is created to showcase its usage.
+
 ## Task 5: Linear Algebra Functions
 
 The script `linear_algebra.py` includes Python functions for matrix multiplication, determinant calculation for 2x2 and 3x3 matrices, and inverse calculation for a 3x3 matrix.
@@ -42,6 +46,7 @@ Ensure you have Python installed, then run each script individually using a Pyth
 ```bash
 python sales_calculator.py
 python product_operations.py
+python Product.py
 python linear_algebra.py
 python linear_system_solver.py
 ```
